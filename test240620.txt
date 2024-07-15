@@ -1,4 +1,9 @@
 慧蓉,#genre#
+jj斗地主,http://goodiptv.club/douyu/488743
+jj斗地主,https://cn-hncs-cu-01-07.bilivideo.com/live-bvc/403712/live_315571702_79885316_1500/index.m3u8
+jj斗地主,http://goodiptv.club/douyin/685317364746
+jj斗地主,http://goodiptv.club/douyin/555661377980
+jj斗地主,http://goodiptv.club/douyin/183024756381
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://php.jdshipin.com:8880/yfy.php?id=cwjd
 喷香哥,http://cfss.cc/cdn/hy/24332756.flv
@@ -179,10 +184,10 @@ CCTV-17,http://125.46.143.8:2000/udp/225.1.4.227:2507
 西游记,http://goodiptv.club/douyu/8953746
 春风十里,http://goodiptv.club/douyu/5820284
 广场舞,http://goodiptv.club/douyu/292098
+鹿鼎记,http://nas.dy091019.love:35455/yy/1382736920
 鹿鼎记,http://goodiptv.club/douyu/4665967
 鹿鼎记,https://live.metshop.top/yy/28265277
 鹿鼎记,http://goodiptv.club/yy/28265277
-鹿鼎记,http://nas.dy091019.love:35455/yy/1382736920
 郭达,http://cfss.cc/cdn/hy/21059588.flv
 电影,http://goodiptv.club/douyu/20415
 电影,http://goodiptv.club/douyu/74374
@@ -192,11 +197,6 @@ CCTV-17,http://125.46.143.8:2000/udp/225.1.4.227:2507
 五星体育,http://h.berr.cn:3000/udp/225.0.0.8:6140
 五星体育,http://www.baopiqi.top:4022/udp/239.45.3.210:5140
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-jj斗地主,https://cn-hncs-cu-01-07.bilivideo.com/live-bvc/403712/live_315571702_79885316_1500/index.m3u8
-jj斗地主,http://goodiptv.club/douyin/685317364746
-jj斗地主,http://goodiptv.club/douyu/488743
-jj斗地主,http://goodiptv.club/douyin/555661377980
-jj斗地主,http://goodiptv.club/douyin/183024756381
 
 杂2,#genre#
 安庆新闻综合,http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3214.m3u8
