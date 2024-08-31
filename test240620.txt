@@ -129,7 +129,6 @@ CCTV-5+HD,http://www.tico2.eu.org:4022/rtp/239.254.96.234:9484
 CCTV-1HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.19:9614
 CCTV-2HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.50:9802
 CCTV-3HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.74:8000
-CCTV-4HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.51:9806
 CCTV-5HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.75:8000
 CCTV5+HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.18:9610
 CCTV-6HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.76:8000
@@ -157,6 +156,8 @@ CETV4HD,http://www.starmoon.org.cn:4022/rtp/239.49.0.125:8000
 海南卫视HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.83:8000
 四川卫视HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.110:8000
 江西卫视HD,http://www.starmoon.org.cn:4022/rtp/239.49.8.111:8000
+江西卫视HD,http://119.98.71.95:8888/rtp/239.254.96.27:8136
+湖北经视z,http://119.98.71.95:8888/rtp/239.254.96.178:9148
 霞姐,https://goodiptv.club/huya/23933914
 楚小二,https://goodiptv.club/huya/822658
 山东二姐,https://goodiptv.club/huya/23757513
