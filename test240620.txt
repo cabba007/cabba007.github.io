@@ -17,7 +17,7 @@ CCTV5,http://chr.460513.xyz:8800/rtp/239.49.8.18:9610
 CCTV5,http://chr.460513.xyz:8800/rtp/239.49.8.137:6000
 五星体育,http://vpn.rogerxlj.top:9998/udp/239.45.3.210:5140
 五星体育,http://www.wein66.eu.org:4022/udp/239.45.3.210:5140
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8#http://101.68.81.44:9999/rtp/233.50.201.136:5140
 CCTV6,http://chr.460513.xyz:8800/rtp/239.49.0.6:9574#http://chr.460513.xyz:8800/rtp/239.49.1.6:6000
 CCTV8,http://chr.460513.xyz:8800/rtp/239.49.0.8:9578#http://chr.460513.xyz:8800/rtp/239.49.1.8:6000
 CCTV9,http://chr.460513.xyz:8800/rtp/239.49.8.53:9814#http://chr.460513.xyz:8800/rtp/239.49.8.133:6000#http://www.tico2.eu.org:4022/rtp/239.254.96.157:9016
@@ -29,6 +29,7 @@ CCTV12,http://www.tico2.eu.org:4022/rtp/239.254.96.160:9034#http://chr.460513.xy
 江西卫视HD2,http://www.hangge123.top:9999/rtp/239.69.1.126:10394
 江西卫视高清,http://chr.460513.xyz:8800/rtp/239.49.8.111:8000#http://chr.460513.xyz:8800/rtp/239.49.8.185:6000
 安徽卫视,http://www.tico2.eu.org:4022/rtp/239.254.96.20:8094
+山东综艺,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8
 山东卫视高清,http://chr.460513.xyz:8800/rtp/239.49.8.7:9306#http://chr.460513.xyz:8800/rtp/239.49.8.146:6000
 北京卫视高清,http://chr.460513.xyz:8800/rtp/239.49.8.11:9414#http://chr.460513.xyz:8800/rtp/239.49.8.141:6000
 湖南卫视高清,http://chr.460513.xyz:8800/rtp/239.49.8.12:9418#http://chr.460513.xyz:8800/rtp/239.49.8.142:6000
@@ -72,3 +73,11 @@ CCTV12,http://www.tico2.eu.org:4022/rtp/239.254.96.160:9034#http://chr.460513.xy
 电影,http://goodiptv.club/douyu/1226741
 三国演义,http://goodiptv.club/douyu/7459925
 西游记,http://goodiptv.club/douyu/8953746
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
