@@ -18,7 +18,7 @@ CCTV5,http://chr.460513.xyz:8800/rtp/239.49.8.18:9610
 CCTV5,http://chr.460513.xyz:8800/rtp/239.49.8.137:6000
 五星体育,http://vpn.rogerxlj.top:9998/udp/239.45.3.210:5140
 五星体育,http://www.wein66.eu.org:4022/udp/239.45.3.210:5140
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8#http://101.68.81.44:9999/rtp/233.50.201.136:5140#https://ali-m-l.cztv.com/channels/lantian/channel006/360p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel06/360p.m3u8
+浙江民生,http://zhfivel02.cztv.com/channel06/360p.m3u8?auth_key=2524708799-0-0-927ae8dd94d758c2b1bde28d8e649048#http://zhfivel02.cztv.com/channel06/360p.flv?auth_key=2524708799-0-0-509e2e8157109557ff5cef62b222fe4a#https://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8#http://101.68.81.44:9999/rtp/233.50.201.136:5140#https://ali-m-l.cztv.com/channels/lantian/channel006/360p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel06/360p.m3u8#http://zwebl02.cztv.com/live/channel06720P.m3u8?auth_key=2524708799-0-0-9378aaaace0aef8a1b45996e150cda74
 CCTV6,http://chr.460513.xyz:8800/rtp/239.49.0.6:9574#http://chr.460513.xyz:8800/rtp/239.49.1.6:6000
 CCTV8,http://chr.460513.xyz:8800/rtp/239.49.0.8:9578#http://chr.460513.xyz:8800/rtp/239.49.1.8:6000
 CCTV9,http://chr.460513.xyz:8800/rtp/239.49.8.53:9814#http://chr.460513.xyz:8800/rtp/239.49.8.133:6000#http://www.tico2.eu.org:4022/rtp/239.254.96.157:9016
