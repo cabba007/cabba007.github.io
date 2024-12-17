@@ -77,4 +77,6 @@ viutv6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 民视综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv004
 tvbs欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 tvbs,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
