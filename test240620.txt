@@ -18,16 +18,15 @@ CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8
 CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
 CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
 CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
-江西卫视,http://tvpull.careryun.com/tv/jxws.m3u8
 东方卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=dfws$migu1
 重庆卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=cqws$migu1
 辽宁卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=lnws$migu1
 山东卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=sdws$migu1
 湖南卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=hunws$migu1
-江西卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=jxws$migu1
 江苏卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=jsws$migu1
 海峡卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=hxws$migu1
 大湾区卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=dwqws$migu1
+江西卫视,http://tvpull.careryun.com/tv/jxws.m3u8
 北京卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=bjws$migu1
 CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
 CCTV2,http://60.29.124.66:6080/hls/13/index.m3u8$天津联通酒店
@@ -43,7 +42,6 @@ CCTV5+,http://www.tico2.eu.org:4022/rtp/239.69.1.123:10376$tico2
 CCTV9,http://www.tico2.eu.org:4022/rtp/239.254.96.157:9016$tico2
 CCTV10,http://www.tico2.eu.org:4022/rtp/239.254.96.158:9022$tico2
 CCTV12,http://www.tico2.eu.org:4022/rtp/239.254.96.160:9034$tico2
-江西卫视,http://www.tico2.eu.org:4022/rtp/239.254.96.27:8136$tico2
 安徽卫视,http://www.tico2.eu.org:4022/rtp/239.254.96.20:8094$tico2
 湖北经视,http://www.tico2.eu.org:4022/rtp/239.254.96.178:9148$tico2
 北京卫视,http://www.tico2.eu.org:4022/rtp/239.254.96.16:8070$tico2
