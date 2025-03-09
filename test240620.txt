@@ -112,5 +112,8 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 國會頻道,https://stream1.freetv.fun/guo-hui--2-1.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+民視新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+緯來體育,http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
+東森新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
 中天新闻,https://zt.dracwoundshop.eu.org/live/stream.m3u8
