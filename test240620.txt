@@ -31,11 +31,10 @@ CCTV7,http://goo.bkpcp.top/mg/cctv7
 北京卫视,http://goo.bkpcp.top/mg/bjws#http://148.135.93.213:81/live.php?id=北京卫视
 江西卫视,http://goo.bkpcp.top/mg/jxws#http://z.b.bkpcp.top/m.php?id=jxws#http://148.135.93.213:81/live.php?id=江西卫视
 东方卫视,http://goo.bkpcp.top/mg/dfws
-天津卫视,http://goo.bkpcp.top/mg/tjws
+天津卫视,http://39.164.180.36:19901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0#http://goo.bkpcp.top/mg/tjws
 安徽卫视,http://goo.bkpcp.top/mg/ahws
 辽宁卫视,http://goo.bkpcp.top/mg/lnws
 东方卫视,http://goo.bkpcp.top/mg/dfws
-重庆卫视,http://goo.bkpcp.top/mg/cqws
 吉林卫视,http://goo.bkpcp.top/mg/jlws
 辽宁卫视,http://goo.bkpcp.top/mg/lnws
 内蒙古卫视,http://goo.bkpcp.top/mg/nmws
