@@ -105,7 +105,11 @@ CCTV17农业农村,http://gat.bkpcp.top/ymg.php?id=cctv17
 云南卫视,http://goo.bkpcp.top/mg/ynws
 贵州卫视,http://goo.bkpcp.top/mg/gzws
 海南卫视,http://goo.bkpcp.top/mg/hinws
+纬来日本,rtmp://60.248.77.83/sat/tv771
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://60.248.77.83/sat/tv721
+纬来体育,rtmp://9hv9.mine.nu/sat/tv721
+纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
@@ -124,9 +128,6 @@ CCTV17农业农村,http://gat.bkpcp.top/ymg.php?id=cctv17
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70
 纬来体育,http://live4play.uk/livehttpplay?channel_id=20120
-纬来体育,rtmp://60.248.77.83/sat/tv721
-纬来体育,rtmp://9hv9.mine.nu/sat/tv721
-纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 纬来体育,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8
 纬来体育,http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
