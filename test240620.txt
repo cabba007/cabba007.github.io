@@ -133,6 +133,7 @@ CCTV17农业农村,http://gat.bkpcp.top/ymg.php?id=cctv17
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 纬来体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2056&tk=e640d0a1bf70
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育2,rtmp://60.248.77.83/sat/tv701
 三立综合,http://live4play.uk/livehttpplay?channel_id=12038
 中天新闻,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
