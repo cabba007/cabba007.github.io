@@ -347,3 +347,4 @@ TVBS新闻,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 DAZN1,rtmp://60.248.77.83/sat/tv731
 DAZN2,rtmp://60.248.77.83/sat/tv741
 MoMo综合,rtmp://60.248.77.83/sat/tv761
+elta,rtmp://60.248.77.83/sat/md011
